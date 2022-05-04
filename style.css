@@ -186,6 +186,7 @@ main p{
 
 .container-img-autora{
   background-color: #674582;
+  border-radius: 5px;
   width: 150px;
   margin-right: 30px;
 }
@@ -297,7 +298,9 @@ footer ul a:hover{
     display: block;
   }
   header{
-    min-height: 50vh;
+    background: url(img/katherine_johnson1.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
   }
   footer ul, .container-logo-footer, .container-icones-footer{
     margin: 10px 10px;
@@ -315,15 +318,29 @@ footer ul a:hover{
   header{
     min-height: 30vh;
   }
-  .header-item h1{
-    font-size: 2rem;
+  .header-item{
+    margin-bottom: 0;
   }
-  main h2{
+  .header-item h1{
     font-size: 1.5rem;
   }
-  
+  main h2{
+    font-size: 1.2rem;
+  }
   .citacao{
     font-size: 1.2rem;
+  }
+}
+
+@media (max-width: 390px){
+  header{
+    min-height: 25vh;
+  }
+  .header-item{
+    margin-bottom: 0;
+  }
+  .header-item h1{
+    font-size: 1.5rem;
   }
 }
 
