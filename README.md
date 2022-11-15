@@ -1,9 +1,9 @@
 # Projeto I M de Maravilhosa
 **Turma On17 Front-end | Semana IV**
 
-Página das colegas da turma :point_right: https://m-de-maravilhosa-on17.netlify.app
+:point_right: [Página das colegas da turma](https://m-de-maravilhosa-on17.netlify.app)
 
-Meu projeto :point_right: https://mdemaravilhosa-reprograma.netlify.app
+:point_right: [Meu projeto](https://mdemaravilhosa-reprograma.netlify.app)
 
 
 ## Desafios:
