@@ -17,7 +17,7 @@ Escolhi a matemática, física e cientista espacial estadunidense, Katherine Joh
   <img align="center" alt="Logo HTML" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
   <img align="center" alt="Logo CSS" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
   <img align="center" alt="Logo do Git" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
-  <img align="center" alt="Logo HTML" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  <img align="center" alt="Logo Figma" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </div>
 
 
